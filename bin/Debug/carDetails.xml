@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfCarDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CarDetails>
+	  <CarId>1</CarId>
+	  <CarNameAndType>SUV</CarNameAndType>
+	  <Transmission>Automatic</Transmission>
+	  <Price>100.00</Price>
+    </CarDetails>
+	<CarDetails>
+		<CarId>2</CarId>
+		<CarNameAndType>SUV</CarNameAndType>
+		<Transmission>Manual</Transmission>
+	    <Price>100.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>3</CarId>
+		<CarNameAndType>Sedan</CarNameAndType>
+		<Transmission>Automatic</Transmission>
+	    <Price>60.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>4</CarId>
+		<CarNameAndType>Sedan</CarNameAndType>
+		<Transmission>Manual</Transmission>
+	    <Price>60.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>5</CarId>
+		<CarNameAndType>Hatchback</CarNameAndType>
+		<Transmission>Automatic</Transmission>
+	<Price>50.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>6</CarId>
+		<CarNameAndType>Hatchback</CarNameAndType>
+		<Transmission>Manual</Transmission>
+	<Price>50.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>7</CarId>
+		<CarNameAndType>Minivan</CarNameAndType>
+		<Transmission>Automatic</Transmission>
+	<Price>80.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>8</CarId>
+		<CarNameAndType>Minivan</CarNameAndType>
+		<Transmission>Manual</Transmission>
+	<Price>80.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>9</CarId>
+		<CarNameAndType>Microcar</CarNameAndType>
+		<Transmission>Automatic</Transmission>
+	<Price>30.00</Price>
+	</CarDetails>
+	<CarDetails>
+	<CarId>10</CarId>
+	<CarNameAndType>Microcar</CarNameAndType>
+	<Transmission>Manual</Transmission>
+	<Price>30.00</Price>
+	</CarDetails>
+    
+ 
+	
+</ArrayOfCarDetails>

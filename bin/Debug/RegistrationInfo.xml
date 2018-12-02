@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfRegistrationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RegistrationInfo>
+    <FirstName>xyz</FirstName>
+    <LastName>abc</LastName>
+    <ContactNo>12345</ContactNo>
+    <Address>Heidelberg</Address>
+    <EmailAddress>xyz</EmailAddress>
+    <Password>xyz123</Password>
+  </RegistrationInfo>
+  <RegistrationInfo>
+    <FirstName>Sumukh</FirstName>
+    <LastName>Venkatesh</LastName>
+    <ContactNo>015129450812</ContactNo>
+    <Address>Heidelberg</Address>
+    <EmailAddress>sumukh.095@gmail.com</EmailAddress>
+    <Password>abc123</Password>
+  </RegistrationInfo>
+  <RegistrationInfo>
+    <FirstName>xyz</FirstName>
+    <LastName>abc</LastName>
+    <ContactNo>123</ContactNo>
+    <Address>berlin</Address>
+    <EmailAddress>xyz@gmail.com</EmailAddress>
+    <Password>xyz123</Password>
+  </RegistrationInfo>
+  <RegistrationInfo>
+    <FirstName>abc</FirstName>
+    <LastName>def</LastName>
+    <ContactNo>1234</ContactNo>
+    <Address>abman</Address>
+    <EmailAddress>abc@gmail.com</EmailAddress>
+    <Password>abc123</Password>
+  </RegistrationInfo>
+</ArrayOfRegistrationInfo>
