@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfCarDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CarDetails>
+	  <CarId>1</CarId>
+	  <CarTypeAndName>SUV - Land Rover Discovery</CarTypeAndName>
+	  <Transmission>Automatic</Transmission>
+	  <Price>100.00</Price>
+    </CarDetails>
+	<CarDetails>
+		<CarId>2</CarId>
+		<CarTypeAndName>SUV - Jeep Grand Cherokee</CarTypeAndName>
+		<Transmission>Manual</Transmission>
+	    <Price>100.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>3</CarId>
+		<CarTypeAndName>Sedan - Audi A4</CarTypeAndName>
+		<Transmission>Automatic</Transmission>
+	    <Price>60.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>4</CarId>
+		<CarTypeAndName>Sedan - BMW M3</CarTypeAndName>
+		<Transmission>Manual</Transmission>
+	    <Price>60.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>5</CarId>
+		<CarTypeAndName>Hatchback - VW Golf</CarTypeAndName>
+		<Transmission>Automatic</Transmission>
+	<Price>50.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>6</CarId>
+		<CarTypeAndName>Hatchback - Hyundai i20</CarTypeAndName>
+		<Transmission>Manual</Transmission>
+	<Price>50.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>7</CarId>
+		<CarTypeAndName>Minivan - Chrysler Pacifica</CarTypeAndName>
+		<Transmission>Automatic</Transmission>
+	<Price>80.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>8</CarId>
+		<CarTypeAndName>Minivan - Nissan Quest</CarTypeAndName>
+		<Transmission>Manual</Transmission>
+	<Price>80.00</Price>
+	</CarDetails>
+	<CarDetails>
+		<CarId>9</CarId>
+		<CarTypeAndName>Microcar - Skoda Citigo</CarTypeAndName>
+		<Transmission>Automatic</Transmission>
+	<Price>30.00</Price>
+	</CarDetails>
+	<CarDetails>
+	<CarId>10</CarId>
+	<CarTypeAndName>Microcar - VW Up</CarTypeAndName>
+	<Transmission>Manual</Transmission>
+	<Price>30.00</Price>
+	</CarDetails>
+    
+ 
+	
+</ArrayOfCarDetails>
